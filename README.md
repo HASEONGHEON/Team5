@@ -18,8 +18,8 @@ __[Team]__ 👨🏻‍💻 <br>
   - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, ㄴㅇㄹㄴㅇㄹㄴㄹㄴㅇㄹ <br>
   
   `하성헌`<br>
-  - [블로그📑](https://faceyourfear.tistory.com/)
-  - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, ㄴㅇㄹㄴㅇㄹㄴㄹㄴㅇㄹ
+  - [블로그📑](https://mars-hun.tistory.com)
+  - 목표🔥 : LG Aimers 수강, Study 활동 성실, 3Dsegmentation 관련 논문 읽기, PointNet 구조 이해와 구동
 
 ----
 __[팀 목표]__ 💻  
